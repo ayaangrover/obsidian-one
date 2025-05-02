@@ -8,11 +8,11 @@ The PCB is in the /keyboard folder. Inside is the production folder, which inclu
 
 ## Firmware
 
-The firmware isn't done yet. It will be done by May 5th, and use QMK.
+The firmware was made with QMK Configurator. It made a .hex file and I used microsoft's uf2conv.py and uf2families.json to convert it to a .uf2 file, which can be flashed to the MCU.
 
 ## Case
 
-The case isn't designed yet. It will be done by May 15th.
+The case isn't designed yet.
 
 ## BOM
 

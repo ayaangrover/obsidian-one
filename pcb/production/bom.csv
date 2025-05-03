@@ -1,0 +1,10 @@
+﻿Designator,Footprint,Quantity,Value,LCSC Part #
+A1,RaspberryPi_Pico_Common_THT,1,RaspberryPi_Pico,
+"D1, D10, D11, D12, D13, D14, D15, D16, D17, D18, D19, D2, D20, D21, D22, D23, D24, D25, D26, D27, D28, D29, D3, D30, D31, D32, D33, D34, D35, D36, D37, D38, D39, D4, D40, D41, D42, D43, D44, D45, D46, D47, D48, D49, D5, D50, D51, D52, D53, D54, D55, D56, D57, D58, D59, D6, D60, D61, D62, D63, D64, D65, D66, D67, D68, D69, D7, D70, D71, D72, D73, D74, D75, D76, D77, D8, D82, D83, D84, D85, D86, D87, D88, D9",Diode_DO-35,84,Diode,
+"S1, S10, S11, S12, S13, S14, S15, S16, S17, S18, S19, S2, S20, S21, S22, S23, S24, S25, S26, S27, S28, S29, S3, S32, S33, S34, S35, S36, S37, S38, S39, S4, S40, S41, S42, S43, S44, S46, S48, S49, S5, S50, S51, S52, S53, S54, S55, S56, S57, S58, S6, S61, S62, S63, S64, S65, S66, S67, S68, S69, S7, S70, S71, S73, S74, S8, S83, S84, S85, S86, S87, S88, S9",Hotswap_MX_1.00u,73,Keyswitch,
+S30,Hotswap_MX_2.00u,1,Keyswitch,
+"S31, S45",Hotswap_MX_1.50u,2,Keyswitch,
+"S47, S72",Hotswap_MX_1.75u,2,Keyswitch,
+"S59, S60",Hotswap_MX_2.25u,2,Keyswitch,
+"S75, S76, S77",Hotswap_MX_1.25u,3,Keyswitch,
+S82,Hotswap_MX_6.25u,1,Keyswitch,

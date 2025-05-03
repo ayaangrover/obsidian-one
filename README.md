@@ -1,3 +1,5 @@
+# Obsidian One: a 75% hotswappable mechanical keyboard
+
 ## Overview
 
 The PCB uses MX-style switches with PCB mounting and hotswap. The MCU(microcontroller - the device that tells the computer whenever you press a key) is a basic [Pi Pico RP2040/RP2350](https://www.canakit.com/raspberry-pi-pico.html).

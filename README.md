@@ -24,13 +24,13 @@ NOTE: This QMK firmware hasn't been tested. Flashing it to your microcontroller 
 
 ## Case
 
-The case isn't designed yet.
+The case is available at ./case
 
 ## BOM
 
 - 84x Kailh Hotswap Sockets
 
-- 84x MX-compatible switches
+- 84x MX-compatible switches (Akko v3 Lavender Pros for me)
 
 - 84x Compatible keycaps
 
@@ -47,3 +47,11 @@ The case isn't designed yet.
 - Soldering Iron
 
 - Flux as needed
+
+## Pictures: 
+![CleanShot 2025-05-09 at 12 09 41@2x](https://github.com/user-attachments/assets/3ef68584-e08d-402d-ac58-158367805725)
+
+![CleanShot 2025-05-09 at 12 36 32@2x](https://github.com/user-attachments/assets/57a26122-066b-44c1-a627-2b79cfe6c3df)
+
+![CleanShot 2025-05-09 at 12 40 01@2x](https://github.com/user-attachments/assets/7d620331-e11d-4e52-937d-cab2aa38883d)
+

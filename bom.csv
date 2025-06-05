@@ -4,6 +4,6 @@ Quantity,Item,Notes/Details,Source
 84x,Compatible keycaps,,https://www.amazon.com/Keycaps-Keyboard-Profile-Switches-Mechanical/dp/B0B4JV49DG?sr=8-22
 84x,1N4148 THT Diodes,,Amazon or Aliexpress
 2x 2u/1x 6.25u,Stabilizers,,https://cannonkeys.com/products/cherry-stabilizers?variant=32257338998895
-1x,Orpheus Pico / Pi Pico if Orpheus Pi isn't available,Controller board,Hack Club HQ
-1x,Case,3D-printed or purchased enclosure,JLCPCB/#printing-legion
-1x,PCB,Custom-designed for this project,JLCPCB
+1x,Orpheus Pico / Pi Pico if Orpheus Pi isn't available,Preferrably an orph pico for usb c,Hack Club HQ
+1x,Case,,JLCPCB/#printing-legion
+1x,PCB,,JLCPCB

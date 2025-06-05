@@ -32,23 +32,16 @@ The case is available at ./case
 
 ## BOM
 
-- 84x Kailh Hotswap Sockets
-
-- 84x MX-compatible switches (MMD Princess Tactile 48gs for me)
-
-- 84x Compatible keycaps - https://www.amazon.com/Keycaps-Keyboard-Profile-Switches-Mechanical/dp/B0B4JV49DG?sr=8-22
-
-- 84x 1N4148 THT Diodes
-
-- Stabilizers - https://cannonkeys.com/products/cherry-stabilizers?variant=32257338998895
-
-- 1x Orpheus Pico/Pi Pico
-
-- 1x USB C to USB A/USB C to USB C cable
-
-- Case
-
-- PCB
+| Quantity | Item                                | Notes/Details                                                      | Source                                                                                                            |
+|----------|-------------------------------------|--------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------|
+| 84x      | Kailh Hotswap Sockets               |                                                                    | Amazon/Aliexpress                                      |
+| 84x      | MX-compatible switches              | MMD Princess Tactile 48gs                                          | Amazon - https://www.amazon.com/KPREPUBLIC-Princess-Tactile-Mechanical-Keyboard/dp/B0C533FYXJ?sr=8-1                                       |
+| 84x      | Compatible keycaps                  |                                                                    | [Amazon](https://www.amazon.com/Keycaps-Keyboard-Profile-Switches-Mechanical/dp/B0B4JV49DG?sr=8-22)              |
+| 84x      | 1N4148 THT Diodes                   |                                                                    | Amazon or Aliexpress          |
+| —        | Stabilizers                         | Cherry-style                                                       | [CannonKeys](https://cannonkeys.com/products/cherry-stabilizers?variant=32257338998895)                          |
+| 1x       | Orpheus Pico / Pi Pico if Orpheus Pi isn't available              | Controller board                                                   | Hack Club HQ |
+| 1x       | Case                                | 3D-printed or purchased enclosure                                  | JLCPCB/#printing-legion                                                  |
+| 1x       | PCB                                 | Custom-designed for this project                                   | JLCPCB                |
 
 ### Extra stuff for the BOM:
 

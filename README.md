@@ -4,6 +4,10 @@
 
 The PCB uses MX-style switches with PCB mounting and hotswap. The MCU(microcontroller - the device that tells the computer whenever you press a key) is a basic [Pi Pico RP2040/RP2350](https://www.canakit.com/raspberry-pi-pico.html).
 
+## Why I made it
+
+My current keyboard(Keychron K6 from #pyramid-scheme) has no function key row, and requires an uncomfortable combo to pause music. To fix this, I made Obsidian One which has the extra row.
+
 ## PCB
 
 The PCB is in the /keyboard folder. Inside is the production folder, which includes the gerber file.

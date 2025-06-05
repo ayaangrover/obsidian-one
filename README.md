@@ -52,6 +52,9 @@ The case is available at ./case
 - Flux as needed
 
 ## Pictures: 
+
+![CleanShot 2025-06-04 at 22 17 38](https://github.com/user-attachments/assets/72a44a06-bb19-4e4e-8e8f-baa5e49b8e10)
+
 ![CleanShot 2025-05-09 at 12 09 41@2x](https://github.com/user-attachments/assets/3ef68584-e08d-402d-ac58-158367805725)
 
 ![CleanShot 2025-05-09 at 12 36 32@2x](https://github.com/user-attachments/assets/57a26122-066b-44c1-a627-2b79cfe6c3df)

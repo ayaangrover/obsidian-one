@@ -36,11 +36,15 @@ The case is available at ./case
 
 - 84x 1N4148 THT Diodes
 
+- Stabilizers
+
 - 1x Orpheus Pico/Pi Pico
 
 - 1x USB C to USB A/USB C to USB C cable
 
 - Case
+
+- PCB
 
 ### Extra stuff for the BOM:
 

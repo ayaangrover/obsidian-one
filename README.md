@@ -36,7 +36,7 @@ The case is available at ./case
 
 - 84x 1N4148 THT Diodes
 
-- Stabilizers
+- Stabilizers - https://cannonkeys.com/products/cherry-stabilizers?variant=32257338998895
 
 - 1x Orpheus Pico/Pi Pico
 

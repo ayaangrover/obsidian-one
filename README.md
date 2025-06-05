@@ -30,15 +30,17 @@ The case is available at ./case
 
 - 84x Kailh Hotswap Sockets
 
-- 84x MX-compatible switches (Akko v3 Lavender Pros for me)
+- 84x MX-compatible switches (MMD Princess Tactile 48gs for me)
 
-- 84x Compatible keycaps
+- 84x Compatible keycaps - https://www.amazon.com/Keycaps-Keyboard-Profile-Switches-Mechanical/dp/B0B4JV49DG?sr=8-22
 
 - 84x 1N4148 THT Diodes
 
 - 1x Orpheus Pico/Pi Pico
 
 - 1x USB C to USB A/USB C to USB C cable
+
+- Case
 
 ### Extra stuff for the BOM:
 

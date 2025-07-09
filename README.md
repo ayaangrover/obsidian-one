@@ -39,7 +39,7 @@ The case is available at ./case
 | 84x      | Compatible keycaps                  |                                                                    | [Amazon](https://www.amazon.com/Keycaps-Keyboard-Profile-Switches-Mechanical/dp/B0B4JV49DG?sr=8-22)              |
 | 84x      | 1N4148 THT Diodes                   |                                                                    | Amazon or Aliexpress          |
 | 2x 2u, 1x 6.25u        | Stabilizers                         | Cherry-style                                                       | [CannonKeys](https://cannonkeys.com/products/cherry-stabilizers?variant=32257338998895)                          |
-| 1x       | Orpheus Pico / Pi Pico if Orpheus Pi isn't available              | Controller board                                                   | Hack Club HQ |
+| 1x       | Orpheus Pico              | Controller board                                                   | Hack Club HQ |
 | 1x       | Case                                | 3D-printed or purchased enclosure                                  | JLCPCB/#printing-legion                                                  |
 | 1x       | PCB                                 | Custom-designed for this project                                   | JLCPCB                |
 

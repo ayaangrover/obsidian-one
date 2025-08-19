@@ -36,7 +36,7 @@ The case is available at ./case
 |----------|-------------------------------------|--------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------|
 | 84x      | Kailh Hotswap Sockets               |                                                                    | Amazon/Aliexpress                                      |
 | 84x      | MX-compatible switches              | MMD Princess Tactile 48gs                                          | Amazon - https://www.amazon.com/KPREPUBLIC-Princess-Tactile-Mechanical-Keyboard/dp/B0C533FYXJ?sr=8-1                                       |
-| 84x      | Compatible keycaps                  |                                                                    | [Amazon](https://www.amazon.com/Keycaps-Keyboard-Profile-Switches-Mechanical/dp/B0B4JV49DG?sr=8-22)              |
+| 84x      | Compatible keycaps                  |                                                                    | [Amazon](https://www.amazon.com/dagaladoo-keycaps-Topographic-Percent-Keyboard/dp/B0CH2KSD7J?sr=8-68&xpid=GHBM-RxRzepH2)              |
 | 84x      | 1N4148 THT Diodes                   |                                                                    | Amazon or Aliexpress          |
 | 2x 2u, 1x 6.25u        | Stabilizers                         | Cherry-style                                                       | [CannonKeys](https://cannonkeys.com/products/cherry-stabilizers?variant=32257338998895)                          |
 | 1x       | Orpheus Pico              | Controller board                                                   | Hack Club HQ |

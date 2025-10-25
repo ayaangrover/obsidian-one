@@ -61,3 +61,7 @@ The case is available at ./case
 
 ![CleanShot 2025-05-09 at 12 40 01@2x](https://github.com/user-attachments/assets/7d620331-e11d-4e52-937d-cab2aa38883d)
 
+<img width="972" height="622" alt="CleanShot 2025-10-25 at 07 35 13@2x" src="https://github.com/user-attachments/assets/f0c58196-43b6-4aa8-938e-9deae82a6225" />
+
+
+
